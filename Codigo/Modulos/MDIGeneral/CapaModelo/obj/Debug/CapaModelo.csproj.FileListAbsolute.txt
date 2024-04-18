@@ -1,0 +1,12 @@
+C:\Users\jimen\source\repos\Prueba\CapaModelo\bin\Debug\CapaModelo.dll
+C:\Users\jimen\source\repos\Prueba\CapaModelo\bin\Debug\CapaModelo.pdb
+C:\Users\jimen\source\repos\Prueba\CapaModelo\obj\Debug\CapaModelo.csproj.AssemblyReference.cache
+C:\Users\jimen\source\repos\Prueba\CapaModelo\obj\Debug\CapaModelo.csproj.CoreCompileInputs.cache
+C:\Users\jimen\source\repos\Prueba\CapaModelo\obj\Debug\CapaModelo.dll
+C:\Users\jimen\source\repos\Prueba\CapaModelo\obj\Debug\CapaModelo.pdb
+C:\Users\jimen\OneDrive\Escritorio\PrototipoIS2P2024\Codigo\Modulos\MDIGeneral\CapaModelo\bin\Debug\CapaModelo.dll
+C:\Users\jimen\OneDrive\Escritorio\PrototipoIS2P2024\Codigo\Modulos\MDIGeneral\CapaModelo\bin\Debug\CapaModelo.pdb
+C:\Users\jimen\OneDrive\Escritorio\PrototipoIS2P2024\Codigo\Modulos\MDIGeneral\CapaModelo\obj\Debug\CapaModelo.csproj.AssemblyReference.cache
+C:\Users\jimen\OneDrive\Escritorio\PrototipoIS2P2024\Codigo\Modulos\MDIGeneral\CapaModelo\obj\Debug\CapaModelo.csproj.CoreCompileInputs.cache
+C:\Users\jimen\OneDrive\Escritorio\PrototipoIS2P2024\Codigo\Modulos\MDIGeneral\CapaModelo\obj\Debug\CapaModelo.dll
+C:\Users\jimen\OneDrive\Escritorio\PrototipoIS2P2024\Codigo\Modulos\MDIGeneral\CapaModelo\obj\Debug\CapaModelo.pdb
